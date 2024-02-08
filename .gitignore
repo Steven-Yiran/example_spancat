@@ -1,0 +1,7 @@
+/ENV
+
+/__pycache__
+
+/folds
+
+/*.npz
